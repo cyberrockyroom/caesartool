@@ -34,6 +34,7 @@ It supports classical encryption and modern cryptographic hashing using an inter
 git clone https://github.com/cyberrockyroom/caesartool.git
 caesartool
 
+
 ### 🔸 Requirements
 - Python 3.10+
 - pipx (recommended)
@@ -43,4 +44,5 @@ Install pipx if not installed:
 sudo apt update
 sudo apt install pipx -y
 pipx ensurepath
+
 
