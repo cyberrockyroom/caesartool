@@ -38,6 +38,8 @@ Install pipx if not installed:
 sudo apt update
 sudo apt install pipx -y
 pipx ensurepath
+git clone https://github.com/cyberrockyroom/caesartool.git
+caesartool
 
 
 
