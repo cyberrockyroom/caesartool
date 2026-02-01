@@ -41,9 +41,9 @@ The tool follows **secure design principles** by allowing decryption only where 
 
 ```bash
 git clone https://github.com/cyberrockyroom/caesartool.git
-caesartool
+cd caesartool
 
----
+```
 ## 🛠️ Requirements
 
 Before installing the tool, make sure your system has:
@@ -55,3 +55,4 @@ Before installing the tool, make sure your system has:
 Check Python version:
 ```bash
 python3 --version
+
