@@ -28,6 +28,11 @@ It supports classical encryption and modern cryptographic hashing using an inter
 ---
 
 ## 🛠️ Installation (Kali Linux / Linux)
+- how to install caesartool in steps:
+
+```bash
+git clone https://github.com/cyberrockyroom/caesartool.git
+caesartool
 
 ### 🔸 Requirements
 - Python 3.10+
@@ -38,3 +43,4 @@ Install pipx if not installed:
 sudo apt update
 sudo apt install pipx -y
 pipx ensurepath
+
