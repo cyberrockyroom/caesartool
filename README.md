@@ -52,11 +52,12 @@ Before installing the tool, make sure your system has:
 - **Git**
 - **pipx** (recommended)
 
-Check Python version:
+Check Python version and update or install pipx:
 ```bash
 python3 --version
 sudo apt update
 sudo apt install pipx -y
 pipx ensurepath
+
 
 
