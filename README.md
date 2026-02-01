@@ -55,4 +55,8 @@ Before installing the tool, make sure your system has:
 Check Python version:
 ```bash
 python3 --version
+sudo apt update
+sudo apt install pipx -y
+pipx ensurepath
+
 
